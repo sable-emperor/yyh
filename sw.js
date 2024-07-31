@@ -1,13 +1,13 @@
-const swPath = "/sw.js";
+const swPath = "/sable-emperor/yyh.github.io/project/sw.js";
 const preCache = [
-  "/images/taichi.png",
-  "/images/banner.webp",
-  "/images/taichi-fill.png",
-  "/css/loader.css",
-  "/css/style.css",
-  "/js/script.js",
+  "/sable-emperor/yyh.github.io/project/images/taichi.png",
+  "/sable-emperor/yyh.github.io/project/images/banner.webp",
+  "/sable-emperor/yyh.github.io/project/images/taichi-fill.png",
+  "/sable-emperor/yyh.github.io/project/css/loader.css",
+  "/sable-emperor/yyh.github.io/project/css/style.css",
+  "/sable-emperor/yyh.github.io/project/js/script.js",
 ];
-const VERSION = "1722431387601";
+const VERSION = "1722432647071";
 const cacheDomain = [
   "fonts.googleapis.com",
   "npm.webcache.cn",
